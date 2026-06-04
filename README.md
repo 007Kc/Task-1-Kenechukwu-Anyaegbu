@@ -1,6 +1,6 @@
-# 🧠 Internship Projects — Kc
+# 🧠 Internship Projects — Kenechukwu Ronaldo Anyaegbu
 
-A collection of three Python-based projects completed as part of an 
+A collection of three Python-based projects completed as part Decodes lab
 internship programme, each exploring a different area of software 
 development and artificial intelligence.
 
